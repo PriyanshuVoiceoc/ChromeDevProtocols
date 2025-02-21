@@ -3,7 +3,6 @@ package org.example;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.devtools.DevTools;
-import org.openqa.selenium.devtools.v131.network.Network;
 import org.openqa.selenium.devtools.v131.fetch.Fetch;
 import org.openqa.selenium.devtools.v131.network.model.Request;
 
